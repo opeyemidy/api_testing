@@ -59,8 +59,6 @@ body {
 }
 .container {
   max-width: 1000px;
-  padding-left: 16px;
-  padding-right: 16px;
   margin: 0 auto;
 }
 
